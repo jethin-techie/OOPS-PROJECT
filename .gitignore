@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Reports and images
+reports/
+*.pdf
+*.png
+
+# Virtual envs
+.env/
+venv/
+.envrc
